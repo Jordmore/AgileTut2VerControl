@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SecondApp</string>
+    <string name="button_ChangeVal">Change Value</string>
+    <string name="textField1">Hello World</string>
 </resources>
