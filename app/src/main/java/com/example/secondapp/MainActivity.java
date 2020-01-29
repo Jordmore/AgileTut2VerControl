@@ -19,6 +19,6 @@ public class MainActivity extends AppCompatActivity {
     {
        TextView t = (TextView) findViewById(R.id.textView);
        t.setText("Changed");
-
+        //Commenting test
     }
 }
